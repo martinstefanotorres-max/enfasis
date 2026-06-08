@@ -111,11 +111,11 @@ class Developer {
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile+Views&color=0057B7&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=Akodee32&label=Profile+Views&color=0057B7&style=flat-square)
 
-![Followers](https://img.shields.io/github/followers/TUUSUARIO?style=flat-square&color=0057B7&label=Followers)
+![Followers](https://img.shields.io/github/followers/Akodee32?style=flat-square&color=0057B7&label=Followers)
 
-![Stars](https://img.shields.io/github/stars/TUUSUARIO?style=flat-square&color=D52B1E&label=Stars)
+![Stars](https://img.shields.io/github/stars/Akodee32?style=flat-square&color=D52B1E&label=Stars)
 
 </div>
 
