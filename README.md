@@ -1,37 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=250&section=header&text=Akodee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=250&section=header&text=Akodee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# Developer
+### Developer • Software Enthusiast • Problem Solver
 
-### Building • Learning • Improving
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Discord+Bot+Developer;Always+Learning+New+Things;Passionate+About+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+cool+things;Learning+something+new+every+day;Creating+software+with+passion;Always+improving"/>
 
 </div>
 
 ---
 
-## About
+## Who Am I?
 
-```js
-const akodee = {
-    role: "Developer",
-    location: "Argentina 🇦🇷",
-    languages: ["JavaScript", "Python", "C#", "Lua", "C++"],
-    interests: [
-        "Software Development",
-        "Backend Systems",
-        "Discord Bots",
-        "Web Applications"
-    ],
-    currentFocus: "Building cool projects"
-};
+```javascript
+class Developer {
+    constructor() {
+        this.name = "Akodee";
+        this.role = "Developer";
+        this.location = "Argentina";
+        this.languages = [
+            "JavaScript",
+            "Python",
+            "C#",
+            "Lua",
+            "C++"
+        ];
+
+        this.interests = [
+            "Software Development",
+            "Backend Systems",
+            "Discord Applications",
+            "Web Technologies",
+            "Automation"
+        ];
+    }
+
+    getStatus() {
+        return "Currently building and learning.";
+    }
+}
 ```
 
 ---
 
-## Tech Stack
+## Tech Arsenal
 
 <div align="center">
 
@@ -49,70 +61,82 @@ const akodee = {
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+### Backend & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-## Activity
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
-## Stats
+## Current Objectives
+
+```txt
+✓ Build useful software
+✓ Learn new technologies
+✓ Improve architecture skills
+✓ Create unique projects
+✓ Keep growing every day
+```
+
+---
+
+## Profile Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=0057B7&style=flat-square&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile+Views&color=0057B7&style=flat-square)
 
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?label=Followers&style=flat-square&color=0057B7&logo=github)
+![Followers](https://img.shields.io/github/followers/TUUSUARIO?style=flat-square&color=0057B7&label=Followers)
 
-![Stars](https://img.shields.io/github/stars/TU_USUARIO?label=Stars&style=flat-square&color=D52B1E&logo=github)
+![Stars](https://img.shields.io/github/stars/TUUSUARIO?style=flat-square&color=D52B1E&label=Stars)
 
 </div>
 
 ---
 
-## Current Goals
+## Contact
 
-- 🚀 Build useful applications
-- 🧠 Learn new technologies
-- ⚙️ Improve software architecture skills
-- 🌎 Contribute to open source
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
+### Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B1E,100:0057B7&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B1E,100:0057B7&height=140&section=footer"/>
 
 </div>
