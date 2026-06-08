@@ -12,8 +12,6 @@
 
 Hello! I'm **Akodee**.
 
-A passionate developer focused on creating modern web experiences, interactive interfaces and creative projects.
-
 - :computer: Developer
 - 🚀 Building Personal Projects
 -  🌎 From Argentina
