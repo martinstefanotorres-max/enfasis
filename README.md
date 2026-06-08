@@ -14,11 +14,10 @@ Hello! I'm **Akodee**.
 
 A passionate developer focused on creating modern web experiences, interactive interfaces and creative projects.
 
-* 💻 Frontend Developer
-* 🎨 UI / UX Enthusiast
-* 🚀 Building Personal Projects
-* 🌎 From Argentina
-* ⚡ Constantly Learning
+- :computer: Developer
+- 🚀 Building Personal Projects
+-  🌎 From Argentina
+- :brain: Always learning
 
 ---
 
